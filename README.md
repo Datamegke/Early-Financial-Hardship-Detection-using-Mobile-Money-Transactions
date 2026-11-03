@@ -63,6 +63,7 @@ The dataset was grouped as follows;
  5. The model visualized the data using charts
  6. 
     **Conclusion**
+    
     The model was effective in achieving the project objectives and data mining goals.
     
 The project therefore offers the following **reccommendations**
