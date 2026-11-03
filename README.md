@@ -31,6 +31,7 @@ The dataset was grouped as follows;
   b. 35>=70 "Old"
   
 - **Liquidity Stress**
+  
   a. 1 "liquidty stress"
   
   b. 0 "no liquidity stress"
