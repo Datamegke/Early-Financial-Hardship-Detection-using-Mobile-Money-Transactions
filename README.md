@@ -18,8 +18,8 @@ This dataset can be accessed from https://zindi.world/competitions/financial-str
 4. Asses the model if it met the project objectives
 
 # Data Understanding
-This data is drawn from the records of mobile money transactions for the past 6 months(m1-m6) where  m1 stands for is the most recent month while m6 stands for the oldest month. The rows contains records of 40000 mobile money users while the columns contain variables.
-The independent variables include - Pay bill, Merchant pay, Send, Received, Bank Transfers Deposit, and Withdrawals.
+This data is drawn from the records of mobile money transactions for the past 6 months(m1-m6) where  m1 stands for the most recent month while m6 stands for the oldest month. The rows contains records of 40000 mobile money users while the columns contain variables.
+The independent variables include - Pay bill, Merchant pay, Send, Received, Bank Transfers, Deposit, and Withdrawals.
 The dependent variables include - daily average balance and liquidity stress for the next 30 days
 The patterns included Volume, total volume and highest amount.
 The dataset was grouped as follows;
