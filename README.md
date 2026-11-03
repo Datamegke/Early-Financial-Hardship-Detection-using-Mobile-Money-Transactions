@@ -54,6 +54,25 @@ The dataset was grouped as follows;
       <img width="763" height="365" alt="Screenshot 2026-11-03 090844" src="https://github.com/user-attachments/assets/91251995-3c42-4e22-964f-f287c2e43673" />
       <img width="634" height="362" alt="Screenshot 2026-11-03 090927" src="https://github.com/user-attachments/assets/fdf119b0-6063-4005-b041-37ef3cd8c86c" />
 
+   # Evaluation
+  
+ 1. The model identified mobile money transaction patterns associated with potential financial hardship
+ 2. The model compared the level of liquidity stress among the female and male, old and the youthful generation
+ 3. The model determined the variance, per region, of financial hardship based on mobile money transaction records
+ 4. The model organized, cleaned and reprocessed the dataset for analysis
+ 5. The model visualized the data using charts
+ 6. 
+    **Conclusion**
+    The model was effective in achieving the project objectives and data mining goals.
+    
+The project therefore offers the following **reccommendations**
+
+1. Financial literacy programs for users showing persistent risk indicators
+2. Responsible lending practices to avoid increasing debt burden
+3. Personalized financial guidance based on transaction patterns
+4. Budgeting and savings support for users experiencing declining ballances
+     
+
       
 
 
