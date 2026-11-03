@@ -31,4 +31,8 @@ The dataset was grouped as follows;
   b. 0 "no liquidity stress"
 
   # Data Preparation
+  -  I checked for Duplicate records, spelling differences, data distribution, ensuring its one record per row, one variable per column, no blanks in the middle of my dataset, headings are kept in row 1
+  - I grouped the data according to age and liquidity risk
+  - I sorted the data according to age from the highest to the smallest
+  
 
