@@ -10,8 +10,8 @@ This dataset can be accessed from https://zindi.world/competitions/financial-str
 3. Compare the rate of financial hardship among men and women, which gender is hardly hit?
 4. Examine the influence of smartphones on potential financial hardship
 5. Determine the influence of earning pattern on future financial hardship
-6. 
-7. ## Data Mining Goals
+ 
+ ## Data Mining Goals
 1. To collect, organize, clean and reprocess mobile money transactions dataset
 2. Identify transaction patterns associated with potential financial hardship
 3. visualize data using charts and pivot tables
