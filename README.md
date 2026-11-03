@@ -78,7 +78,7 @@ The project therefore offers the following **reccommendations**
       
 
 # Deployment
-This information can be accessed via
+This information can be accessed via https://github.com/Datamegke
 ## contact
 For any feedback please contact via
 1. **Email**:meg858477@gmail.com
