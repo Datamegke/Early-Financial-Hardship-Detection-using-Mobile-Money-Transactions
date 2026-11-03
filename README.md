@@ -25,6 +25,7 @@ The patterns included Volume, total volume and highest amount.
 The dataset was grouped as follows;
 
 - **Age**
+ 
   a. <=35 "Youth"
   
   b. 35>=70 "Old"
