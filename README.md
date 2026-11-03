@@ -71,6 +71,26 @@ The project therefore offers the following **reccommendations**
 2. Responsible lending practices to avoid increasing debt burden
 3. Personalized financial guidance based on transaction patterns
 4. Budgeting and savings support for users experiencing declining ballances
+
+5. ## Challenges
+6. 1. High cost of internet to access data
+7. 2. Limited data sources
+      
+
+# Deployment
+This information can be accessed via
+## contact
+For any feedback please contact via
+1. **Email**:meg858477@gmail.com
+2. **Phone number**:+254 743103223
+
+## Licence
+   MIT licence has been applied to this project
+   
+## Collaborators
+1. Mary Margaret
+
+
      
 
       
