@@ -2,6 +2,7 @@
 Financial hardship is a condition in which an individual, household experiences difficulty meeting essential financial obligations because of insufficient resources. This can occur when income decreases, expenses increase or debt become difficult to manage. Examples could include ; difficulty paying rent, food, school fees, medical expenses etc ,significant decline in account balance, difficulty paying debts, very little or no savings amongst others.
 Mobile money services, especially in developing economies like Kenya, have become an important part of everyday financial activity. Transaction records contain useful information and patterns about, income, expenditure, transfers,withdrawals, borrowing and repayment behavior, which when analyzed can provide insights on potential financial hardship in the future. 
 Financial hardship is a gradual process that may or may not be detected early. This project analyses Financial hardship(Liquidity stress) as a financial condition that can potentially be indicated by changes in a person's mobile transaction patterns.
+This dataset can be accessed from https://zindi.world/competitions/financial-stress-prediction-challenge-2026-11-01/data
 
 ## Project Objectives
 1. Assess the level of financial hardship among different age groups
