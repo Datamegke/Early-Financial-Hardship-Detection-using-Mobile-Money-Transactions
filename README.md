@@ -25,6 +25,7 @@ The dataset was grouped as follows;
 
 - **Age**
   a. <=35 "Youth"
+  
   b. 35>=70 "Old"
   
 - **Liquidity Stress**
@@ -37,7 +38,9 @@ The dataset was grouped as follows;
   - I sorted the data according to age from the highest to the smallest
 
   # Modelling
+  
   a. Pivot Tables
+  
   b. Charts
   
   The **findings** were as follows:
@@ -74,8 +77,9 @@ The project therefore offers the following **reccommendations**
 4. Budgeting and savings support for users experiencing declining ballances
 
 5. ## Challenges
-6. 1. High cost of internet to access data
-7. 2. Limited data sources
+6. 
+7. 1. High cost of internet to access data
+8. 2. Limited data sources
       
 
 # Deployment
