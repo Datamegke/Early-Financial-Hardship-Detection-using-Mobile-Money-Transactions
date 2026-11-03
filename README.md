@@ -20,6 +20,7 @@ Financial hardship is a gradual process that may or may not be detected early. T
 This data is drawn from the records of mobile money transactions for the past 6 months(m1-m6) where  m1 stands for is the most recent month while m6 stands for the oldest month. The rows contains records of 40000 mobile money users while the columns contain variables.
 The independent variables include - Pay bill, Merchant pay, Send, Received, Bank Transfers Deposit, and Withdrawals.
 The dependent variables include - daily average balance and liquidity stress for the next 30 days
+The patterns included Volume, total volume and highest amount.
 The dataset was grouped as follows;
 
 - **Age**
@@ -32,7 +33,31 @@ The dataset was grouped as follows;
 
   # Data Preparation
   -  I checked for Duplicate records, spelling differences, data distribution, ensuring its one record per row, one variable per column, no blanks in the middle of my dataset, headings are kept in row 1
-  - I grouped the data according to age and liquidity risk
+  - I grouped the data according to age and liquidity stress
   - I sorted the data according to age from the highest to the smallest
+
+  # Modelling
+  a. Pivot Tables
+  b. Charts
+  
+  The **findings** were as follows:
+  
+  1. The following patterns were associated with potential liquidity stress; volume, total value and highest amount
+  2. The female gender had the highest sum of liquidity stress as opposed to the male users
+  3. The old had a higher sum of liquidity stress as opposed to the youthful generation
+  4. The users from the Coastal and Eastern corridor were the most hit by financial hardship as opposed to other regions while the  Islanders were the least hit
+  5. The smartphone users have a higher sum of liquidity stress as opposed to non-smartphone users
+ 
+  6. <img width="637" height="320" alt="Screenshot 2026-11-03 090617" src="https://github.com/user-attachments/assets/f8b96069-5c3e-4921-93d6-ba546744c5c2" />
+      <img width="837" height="325" alt="Screenshot 2026-11-03 090724" src="https://github.com/user-attachments/assets/ceb5fc38-f214-4905-a3d4-7ffb9de55dde" />
+      <img width="701" height="381" alt="Screenshot 2026-11-03 090801" src="https://github.com/user-attachments/assets/49bf8f4d-db27-423b-9ae2-0832ee7475f5" />
+      <img width="763" height="365" alt="Screenshot 2026-11-03 090844" src="https://github.com/user-attachments/assets/91251995-3c42-4e22-964f-f287c2e43673" />
+      <img width="634" height="362" alt="Screenshot 2026-11-03 090927" src="https://github.com/user-attachments/assets/fdf119b0-6063-4005-b041-37ef3cd8c86c" />
+
+      
+
+
+
+
   
 
